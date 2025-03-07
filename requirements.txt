@@ -1,0 +1,9 @@
+numpy
+pandas #(used for DataFrames)
+matplotlib
+seaborn
+plotly  #(visualization library with more features)
+nbformat   #(notebook format)
+requests   #(web scrapping - copying info from websites)
+beautifulsoup4   #(web scrapping)
+ipykernel #(for working with jupyter notebook)
